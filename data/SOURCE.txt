@@ -1,0 +1,16 @@
+Dataset used
+============
+Air Quality e-Reporting: Air quality annual statistics calculated by the EEA
+Publisher: European Environment Agency (EEA)
+Portal: data.europa.eu
+Record: https://data.europa.eu/data/datasets/6e191a3b-258d-491e-b636-6cbb15cf473b
+
+Extractions (France, "Annual mean / 1 calendar year", one file per pollutant):
+- NO2   : https://discomap.eea.europa.eu/App/AQViewer/index.html?fqn=Airquality_Dissem.b2g.AirQualityStatistics&Country=France&AirPollutant=NO2&DataAggregationProcess=Annual%20mean%20/%201%20calendar%20year
+- PM10  : https://discomap.eea.europa.eu/App/AQViewer/index.html?fqn=Airquality_Dissem.b2g.AirQualityStatistics&Country=France&AirPollutant=PM10&DataAggregationProcess=Annual%20mean%20/%201%20calendar%20year
+- PM2.5 : https://discomap.eea.europa.eu/App/AQViewer/index.html?fqn=Airquality_Dissem.b2g.AirQualityStatistics&Country=France&AirPollutant=PM2.5&DataAggregationProcess=Annual%20mean%20/%201%20calendar%20year
+- O3    : https://discomap.eea.europa.eu/App/AQViewer/index.html?fqn=Airquality_Dissem.b2g.AirQualityStatistics&Country=France&AirPollutant=O3&DataAggregationProcess=Annual%20mean%20/%201%20calendar%20year
+
+Files: eea_FR_NO2_annual_mean.csv.zip (12,702 rows), eea_FR_PM10_annual_mean.csv.zip (9,502),
+eea_FR_PM25_annual_mean.csv.zip (3,471), eea_FR_O3_annual_mean.csv.zip (10,548). Downloaded on 21 October 2026.
+Licence: EEA re-use policy (CC BY 4.0), attribution required.
